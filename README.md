@@ -8,6 +8,9 @@ DataBase : Mysql
 Infrastructure :
 
 AWS : EC2, RDS
+
 CI/CD : Jenkins, ArgoCD
+
 ETC : Docker, Ubuntu, Nginx, Pm2
+
 CodeQuality : esLint, Prettier
